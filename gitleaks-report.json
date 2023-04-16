@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 2,
+  "EndLine": 2,
+  "StartColumn": 2,
+  "EndColumn": 47,
+  "Match": "Secret: \"60f41f67-b43b-4552-bb80-f2f29b861ef0\"",
+  "Secret": "60f41f67-b43b-4552-bb80-f2f29b861ef0",
+  "File": "data.json",
+  "SymlinkFile": "",
+  "Commit": "566b58fa1d05ee58e74300cabbe5c0d3f7c528e3",
+  "Entropy": 3.6077352,
+  "Author": "jhon.doe",
+  "Email": "jhon@email.com",
+  "Date": "2023-04-06T20:46:27Z",
+  "Message": "add secret",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "566b58fa1d05ee58e74300cabbe5c0d3f7c528e3:data.json:generic-api-key:2"
+ }
+]
